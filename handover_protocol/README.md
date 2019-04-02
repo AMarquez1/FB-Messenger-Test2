@@ -20,8 +20,8 @@ This repo contains code for the webhook and application logic for an example Mes
 3. Create an `env` file with the following `module.exports` object:
 ``` js
 module.exports = {
-  "PAGE_ACCESS_TOKEN": "<YOUR PAGE ACCESS TOKEN>",  
-  "VERIFY_TOKEN": "YOUR WEBHOOK VERIFY TOKEN"
+  "PAGE_ACCESS_TOKEN": "EAAfDUHaZAvTEBAMTJ6ldHhCffkA6FwZAhrh5kh26UAoe3nnQ2OSczf1RcQ6Go1zZBYpHaCLlsXgdlBtsVW90GskNkKzCje5kapSu8nQigFsU2ACV9nO1QjJESsW7KrXvAOrxYS0t1bvKxuWjNjAbqzlovhTrj6cLw1tNVHXDgZDZD",  
+  "VERIFY_TOKEN": "alex-fb-page-test"
 }  
 ```
 Alternatively, you can set the above as environment variables.
